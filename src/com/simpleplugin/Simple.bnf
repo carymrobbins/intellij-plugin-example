@@ -1,0 +1,31 @@
+{
+  parserClass="com.simpleplugin.parser.SimpleParser"
+  parserUtilClass="org.intellij.grammar.parser.GeneratedParserUtilBase"
+
+  extends="com.intellij.extapi.psi.ASTWrapperPsiElement"
+
+  psiClassPrefix="Simple"
+  psiImplClassSuffix="Impl"
+  psiPackage="com.simpleplugin.psi"
+  psiImplPackage="com.simpleplugin.psi.impl"
+
+  elementTypeHolderClass="com.simpleplugin.psi.SimpleTypes"
+  elementTypeClass="com.simpleplugin.psi.SimpleElementType"
+  tokenTypeClass="com.simpleplugin.psi.SimpleTokenType"
+
+  tokens=[
+    variable='regexp:[a-z][a-zA-Z0-9_]*'
+    equals='='
+    plus='+'
+    number='regexp:[0-9]+'
+    string='regexp:"[^"]*"'
+    semicolon=';'
+    comment='regexp:--[^\r\n]*'
+  ]
+}
+
+program ::= { expression ';' | comment} *
+expression ::= variable operator value | command
+operator ::= '=' | '+'
+value ::= number | string | variable
+command ::= run | stop
