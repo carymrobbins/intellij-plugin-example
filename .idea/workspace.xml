@@ -67,19 +67,44 @@
       <file leaf-file-name="Simple.bnf" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/Simple.bnf">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+            <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="555">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleSyntaxHighlighter.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="SimpleSyntaxHighlighter.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleSyntaxHighlighter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="12" selection-start="2007" selection-end="2007" vertical-scroll-proportion="0.2949757" vertical-offset="343" max-vertical-offset="960">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="11" column="18" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="960">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleAnnotator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleAnnotator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="13" selection-start="1574" selection-end="1574" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="780">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugin.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="92" selection-start="1740" selection-end="1740" vertical-scroll-proportion="0.9547101" vertical-offset="118" max-vertical-offset="765">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleVisitor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gen/com/simpleplugin/psi/SimpleVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="540">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -87,10 +112,8 @@
       <file leaf-file-name="SimpleElementType.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/psi/SimpleElementType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="1" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="11" column="1" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,16 +121,8 @@
       <file leaf-file-name="SimpleColorSettingsPage.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleColorSettingsPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="89" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1110">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1009#1010#0" expanded="true" />
-                <element signature="e#1048#1049#0" expanded="true" />
-                <element signature="e#1717#1718#0" expanded="true" />
-                <element signature="e#1751#1752#0" expanded="true" />
-                <element signature="e#1832#1833#0" expanded="true" />
-                <element signature="e#1882#1883#0" expanded="true" />
-              </folding>
+            <state line="47" column="19" selection-start="1531" selection-end="1531" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="1110">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -136,9 +151,10 @@
         <option value="$PROJECT_DIR$/src/com/simpleplugin/Simple.bnf" />
         <option value="$PROJECT_DIR$/src/com/simpleplugin/_SimpleLexer.flex" />
         <option value="$PROJECT_DIR$/src/com/simpleplugin/SimpleSyntaxHighlighterFactory.java" />
-        <option value="$PROJECT_DIR$/META-INF/plugin.xml" />
         <option value="$PROJECT_DIR$/src/com/simpleplugin/SimpleColorSettingsPage.java" />
         <option value="$PROJECT_DIR$/src/com/simpleplugin/SimpleSyntaxHighlighter.java" />
+        <option value="$PROJECT_DIR$/META-INF/plugin.xml" />
+        <option value="$PROJECT_DIR$/src/com/simpleplugin/SimpleAnnotator.java" />
       </list>
     </option>
   </component>
@@ -146,7 +162,7 @@
     <option name="x" value="-1920" />
     <option name="y" value="22" />
     <option name="width" value="1920" />
-    <option name="height" value="1054" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -174,7 +190,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -264,6 +279,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -276,14 +292,15 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="options.lastSelected" value="preferences.sourceCode" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Erlang" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/simpleplugin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="PsiViewer.ProjectComponent">
     <option name="HIGHLIGHT" value="false" />
@@ -426,7 +443,13 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <log_file path="$USER_HOME$/Library/Caches/IdeaIC13/plugins-sandbox/system/log/idea.log" checked="false" skipped="true" show_all="false" alias="IDEA LOG" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -465,33 +488,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="22" width="1920" height="1054" extended-state="6" />
-    <editor active="true" />
+    <frame x="-1920" y="22" width="1920" height="1058" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39958593" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32815734" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952183" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="PsiViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24920128" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32919255" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="PsiViewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -515,6 +538,188 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/Simple.bnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleSyntaxHighlighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="18" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleAnnotator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="21" selection-start="1379" selection-end="1379" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/simpleplugin/psi/SimpleVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/psi/SimpleElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleColorSettingsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="19" selection-start="1531" selection-end="1531" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/Simple.bnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleSyntaxHighlighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="18" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/psi/SimpleElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleColorSettingsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="19" selection-start="1531" selection-end="1531" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/Simple.bnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleSyntaxHighlighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="18" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/psi/SimpleElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleColorSettingsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="89" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/Simple.bnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleSyntaxHighlighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="18" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/psi/SimpleElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleColorSettingsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="89" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/Simple.bnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleSyntaxHighlighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="26" selection-end="26" vertical-scroll-proportion="0.0" vertical-offset="3" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/psi/SimpleElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleColorSettingsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="89" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/Simple.bnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleSyntaxHighlighter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="1994" selection-end="1994" vertical-scroll-proportion="0.0" vertical-offset="343" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/psi/SimpleElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleColorSettingsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="89" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1110">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleLanguage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="1" selection-start="246" selection-end="246" vertical-scroll-proportion="0.16025642" vertical-offset="0" max-vertical-offset="936">
@@ -526,8 +731,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="31" selection-start="156" selection-end="156" vertical-scroll-proportion="0.06410257" vertical-offset="0" max-vertical-offset="936">
           <folding>
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#796#797#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="false" />
+            <element signature="e#796#797#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -536,7 +741,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="1" selection-start="409" selection-end="409" vertical-scroll-proportion="0.17628205" vertical-offset="0" max-vertical-offset="936">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -545,9 +750,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="1" selection-start="769" selection-end="769" vertical-scroll-proportion="0.7536467" vertical-offset="0" max-vertical-offset="617">
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#543#544#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#543#544#0" expanded="false" />
+            <element signature="e#589#590#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -556,7 +761,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="1" selection-start="218" selection-end="218" vertical-scroll-proportion="0.19448946" vertical-offset="0" max-vertical-offset="617">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -565,7 +770,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="1" selection-start="478" selection-end="478" vertical-scroll-proportion="0.38897893" vertical-offset="0" max-vertical-offset="617">
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -574,68 +779,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="38" selection-start="213" selection-end="213" vertical-scroll-proportion="0.124797404" vertical-offset="13" max-vertical-offset="1155">
           <folding>
-            <element signature="e#1031#1047#0" expanded="true" />
-            <element signature="e#1256#1257#0" expanded="true" />
-            <element signature="e#1291#1292#0" expanded="true" />
-            <element signature="e#1346#1347#0" expanded="true" />
-            <element signature="e#1377#1378#0" expanded="true" />
-            <element signature="e#1440#1441#0" expanded="true" />
-            <element signature="e#1477#1478#0" expanded="true" />
-            <element signature="e#1654#1655#0" expanded="true" />
-            <element signature="e#1681#1682#0" expanded="true" />
+            <element signature="e#1031#1047#0" expanded="false" />
+            <element signature="e#1256#1257#0" expanded="false" />
+            <element signature="e#1291#1292#0" expanded="false" />
+            <element signature="e#1346#1347#0" expanded="false" />
+            <element signature="e#1377#1378#0" expanded="false" />
+            <element signature="e#1440#1441#0" expanded="false" />
+            <element signature="e#1477#1478#0" expanded="false" />
+            <element signature="e#1654#1655#0" expanded="false" />
+            <element signature="e#1681#1682#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/_SimpleLexer.flex">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="8" selection-start="317" selection-end="317" vertical-scroll-proportion="0.38897893" vertical-offset="0" max-vertical-offset="750">
-          <folding>
-            <marker date="1388725466000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1388725466000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1388725466000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1388725466000" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1388725466000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
-        </state>
+        <state line="18" column="8" selection-start="317" selection-end="317" vertical-scroll-proportion="0.38897893" vertical-offset="0" max-vertical-offset="750" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleSyntaxHighlighterFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="1" selection-start="534" selection-end="534" vertical-scroll-proportion="0.34035656" vertical-offset="0" max-vertical-offset="617">
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="84" selection-start="1647" selection-end="1647" vertical-scroll-proportion="0.8298217" vertical-offset="118" max-vertical-offset="750">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleColorSettingsPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="89" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="1110">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-            <element signature="e#1048#1049#0" expanded="true" />
-            <element signature="e#1717#1718#0" expanded="true" />
-            <element signature="e#1751#1752#0" expanded="true" />
-            <element signature="e#1832#1833#0" expanded="true" />
-            <element signature="e#1882#1883#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/psi/SimpleElementType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="1" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -647,12 +813,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleColorSettingsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="19" selection-start="1531" selection-end="1531" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/psi/SimpleElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="376" selection-end="376" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleSyntaxHighlighter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="12" selection-start="2007" selection-end="2007" vertical-scroll-proportion="0.2949757" vertical-offset="343" max-vertical-offset="960">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="11" column="18" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="20" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen/com/simpleplugin/psi/SimpleVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="222" selection-end="222" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/build/idea/platform/lang-impl/src/com/intellij/extapi/psi/PsiElementBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="269" column="18" selection-start="7846" selection-end="7846" vertical-scroll-proportion="0.63297874" vertical-offset="2930" max-vertical-offset="3870" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/build/idea/platform/core-impl/src/com/intellij/extapi/psi/ASTWrapperPsiElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="3" selection-start="809" selection-end="809" vertical-scroll-proportion="0.095744684" vertical-offset="0" max-vertical-offset="940" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/build/idea/platform/analysis-impl/src/com/intellij/codeInsight/daemon/impl/DefaultHighlightVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="151" column="0" selection-start="5393" selection-end="5393" vertical-scroll-proportion="0.0" vertical-offset="1496" max-vertical-offset="2865">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/simpleplugin/SimpleAnnotator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="13" selection-start="1574" selection-end="1574" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="92" selection-start="1740" selection-end="1740" vertical-scroll-proportion="0.9547101" vertical-offset="118" max-vertical-offset="765">
+          <folding />
         </state>
       </provider>
     </entry>

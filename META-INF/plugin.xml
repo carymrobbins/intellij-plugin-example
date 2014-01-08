@@ -41,5 +41,6 @@
       <lang.parserDefinition language="Simple" implementationClass="com.simpleplugin.SimpleParserDefinition"/>
       <lang.syntaxHighlighterFactory key="Simple" implementationClass="com.simpleplugin.SimpleSyntaxHighlighterFactory"/>
       <colorSettingsPage implementation="com.simpleplugin.SimpleColorSettingsPage"/>
+      <annotator language="Simple" implementationClass="com.simpleplugin.SimpleAnnotator" />
   </extensions>
 </idea-plugin>
